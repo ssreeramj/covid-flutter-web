@@ -9,6 +9,7 @@ class SummaryApiClient {
 
     if (response.statusCode == 200) {
       final json = jsonDecode(response.body);
+      print('HI');
       return Summary.fromJson(json);
     } else {
       throw Exception('error fetching all details');
