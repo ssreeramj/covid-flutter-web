@@ -1,6 +1,6 @@
-# covid_web
+# COVID-19 Dashboard using Flutter Web
 
-A new Flutter project.
+### WIP
 
 ## Getting Started
 
